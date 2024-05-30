@@ -1,0 +1,1 @@
+# DevNAS.SaasDesktop.AutoUpdater
