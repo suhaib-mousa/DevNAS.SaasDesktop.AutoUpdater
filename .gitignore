@@ -1,0 +1,7 @@
+node_modules/
+libslogs.log
+package-lock.json
+logs/
+dist/
+logo devnas/
+.vs/
